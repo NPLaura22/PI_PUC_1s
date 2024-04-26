@@ -33,7 +33,7 @@ Por outro lado, os objetivos específicos detalham as atividades ou passos neces
 
 ## 👫🏻👨🏻‍🤝‍👨🏾 AUTORES
 
-* **Ana Beatriz Maranho Oliveira Silva** - *Integrante*
+* **Ana Beatriz Maranho Oliveira Silva** - *23000755*
 * **Danilo Simoni Altomani** - *24002170*
 * **Júlia Carolina Kimura** - *23031075* 
 * **Laura Nogueira Pereira** - *24013968* 
