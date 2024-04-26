@@ -30,6 +30,9 @@ Por outro lado, os objetivos específicos detalham as atividades ou passos neces
 
 * ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     * https://dev.mysql.com/doc/
+ 
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    * https://docs.python.org/pt-br/3/
 
 ## 👫🏻👨🏻‍🤝‍👨🏾 AUTORES
 
