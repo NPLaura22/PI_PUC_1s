@@ -1,4 +1,5 @@
 <h1 align="center"> Projeto Integrador - 1° Semestre </h1> 
+<h3 align="center"> Sistema de Controle de Estoque </h3> 
 
 Repositório para  desenvolvimento do projeto integrador, apresentado no componente curricular Projeto Integrador I, do curso de Sistemas de Informação, da Escola Politécnica da Pontifícia Universidade Católica de Campinas.
 
