@@ -35,6 +35,6 @@ Por outro lado, os objetivos específicos detalham as atividades ou passos neces
 
 * **Ana Beatriz Maranho Oliveira Silva** - *Integrante*
 * **Danilo Simoni Altomani** - *24002170*
-* **Júlia Carolina Kimura** - *Integrante* 
+* **Júlia Carolina Kimura** - *23031075* 
 * **Laura Nogueira Pereira** - *24013968* 
 * **Leandro Campos Carasco** - *Integrante*
